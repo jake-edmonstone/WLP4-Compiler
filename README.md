@@ -26,5 +26,5 @@ This will create the following executables:
 
 Each executable can be run individually, processing the output from the previous stage:
 ```bash
-cat test.wlp4 | ./smm | ./scan | ./parse | ./type | ./gen
+cat example.wlp4 | ./smm | ./scan | ./parse | ./type | ./gen
 ```
