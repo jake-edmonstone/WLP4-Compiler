@@ -1,6 +1,6 @@
 # WLP4 Compiler
 
-This project is a compiler from WLP4 (a small subset of C) to MIPS assembly language. The specification for WLP4 can be found online. The compiler consists of four main components: a scanner, parser, type checker, and code generator. Each component is implemented as a separate C++ program.
+This project is a compiler from WLP4 (a small subset of C) to MIPS assembly language. A quick overview of WLP4 can be found [here](https://student.cs.uwaterloo.ca/~cs241/wlp4/WLP4tutorial.html) or the full specification, [here](https://student.cs.uwaterloo.ca/~cs241/wlp4/). The compiler consists of four main components: a scanner, parser, type checker, and code generator. Each component is implemented as a separate C++ program.
 
 ## Components
 
